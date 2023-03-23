@@ -5,3 +5,11 @@ class Main {
     System.out.println("Hello world!");
   }
 }
+
+class Pessoa {
+  private String nome; {
+  public Construtor(String nome){
+    this.nome = nome;
+  }
+  }
+}
